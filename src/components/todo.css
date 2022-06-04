@@ -1,0 +1,14 @@
+input{
+    width: 280px;
+    height: 37px;
+    font-size: 30px;
+    border: none;
+    background-color: rgb(198, 218, 198);
+}
+.btn{
+      height: 39px;
+      border: none;
+      font-size: 30px;
+      color: white;
+      background-color: rgb(198, 218, 198);
+    }
